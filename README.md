@@ -7,7 +7,7 @@ Mobile and Backend Engineer
 <br> 
 <h4>💫 About Me:</h4>
 <p>
-i am a passionate and creative frontend developer, i love building mobile and website applications using React Native and React js respectively, i love Manipulating APIs to get desired and perfect results at the frontend, I'm a forever lover of JavaScript and React looking to collaborate and build really cool things with you.
+A highly skilled Mobile and Backend Engineer with expertise in developing robust and scalable applications for mobile devices and web-based platforms. Your proficiency in programming languages such as React Native, Laravel, JavaScript enables me to design and implement complex solutions that meet the specific needs of your clients.
 </p>
 <br> 
 <br>
