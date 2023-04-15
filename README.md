@@ -17,7 +17,7 @@ i am a passionate and creative frontend developer, i love building mobile and we
 ⚡ Fun fact: i always Win <br>
 <br> 
 🌐 Socials:
-https://twitter.com/Darlington_damo
+https://twitter.com/Darlington_damo <br>
 https://www.linkedin.com/in/darlington-damola-7a70a6194/
 <br> 
 💻 Tech Stack: <br> 
